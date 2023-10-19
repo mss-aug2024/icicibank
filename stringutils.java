@@ -1,1 +1,2 @@
-strin updatedg
+strin update
+deve update dg
